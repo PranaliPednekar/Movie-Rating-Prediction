@@ -12,8 +12,8 @@ This project predicts IMDb movie ratings based on features like Director, Genre,
 
 ### How to run this project
 * 1. Clone this repository:
-     git clone https://github.com/yourusername/Movie-Rating-Prediction.git
-     cd Movie-Rating-Prediction
+     - git clone https://github.com/yourusername/Movie-Rating-Prediction.git
+     - cd Movie-Rating-Prediction
 * 2. Install dependencies (if required):
      pip install pandas numpy scikit-learn joblib
 * 3. Open Jupyter Notebook:
